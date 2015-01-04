@@ -20,6 +20,7 @@
 //! distributed object-capability layer.
 
 
+#![feature(associated_types)]
 #![feature(globs)]
 #![feature(macro_rules)]
 #![feature(phase)]
